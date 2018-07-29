@@ -1,0 +1,4 @@
+* ecommerce-django
+Tutorial for e-commerce page with django and wagtail
+
+[[https://snipcart.com/blog/django-ecommerce-tutorial-wagtail-cms][source]]
